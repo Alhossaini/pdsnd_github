@@ -26,3 +26,5 @@ Date-time converting function:
 https://stackoverflow.com/questions/26763344/convert-pandas-column-to-datetime
 https://stackoverflow.com/questions/28764550/python-lower-is-not-working
 https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
+What is __main__.py:
+https://stackoverflow.com/questions/4042905/what-is-main-py
