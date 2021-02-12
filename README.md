@@ -18,7 +18,11 @@ new_york_city.csv
 washington.csv
 
 ### Credits
+Python documentation:
 https://docs.python.org/3/
+pandas documentation
 https://pandas.pydata.org/pandas-docs/stable/
+Date-time converting function
 https://stackoverflow.com/questions/26763344/convert-pandas-column-to-datetime
+https://stackoverflow.com/questions/28764550/python-lower-is-not-working
 https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
