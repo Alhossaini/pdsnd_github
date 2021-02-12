@@ -1,10 +1,10 @@
-### Date created
+### Date created:
 This Project was created on 12-Feb-2021.
 
-### Project Title
+### Project Title:
 US Bikeshare Data - Programming for Data Science
 
-### Description
+### Description:
 This script explores bicycle rentals company "Bikeshare" data using python in three different cities:
 Chicago
 New York City
@@ -12,12 +12,12 @@ Washington
 
 The data is imported from three csv files and provide analysis in descriptive manner, and the user can input what types of data they want to analyze and have results for.
 
-### Files used
+### Files used:
 chicago.csv
 new_york_city.csv
 washington.csv
 
-### Credits
+### Credits:
 Python documentation:
 https://docs.python.org/3/
 pandas documentation
