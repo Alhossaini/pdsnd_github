@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+#welcome to my python script!
 print('Hello! Let\'s explore some US Bikeshare data!')
 
 CITY_DATA = { 'chicago': 'chicago.csv',
