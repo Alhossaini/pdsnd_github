@@ -1,15 +1,24 @@
 ### Date created
-Include the date you created this project and README file.
+This Project was created on 12-Feb-2021.
 
 ### Project Title
-Replace the Project Title
+US Bikeshare Data - Programming for Data Science
 
 ### Description
-Describe what your project is about and what it does
+This script explores bicycle rentals company "Bikeshare" data using python in three different cities:
+Chicago
+New York City
+Washington
+
+The data is imported from three csv files and provide analysis in descriptive manner, and the user can input what types of data they want to analyze and have results for.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://docs.python.org/3/
+https://pandas.pydata.org/pandas-docs/stable/
+https://stackoverflow.com/questions/26763344/convert-pandas-column-to-datetime
+https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
