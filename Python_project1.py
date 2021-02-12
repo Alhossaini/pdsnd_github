@@ -15,6 +15,7 @@ def check_input(input_str,input_type):
     input_str is the user input, and input_type is the type of the input (1: city, 2: month, 3: day)
     """
     while True:
+        #users input should be string
         input_read = input(input_str).lower()
         try:
             if input_read in ['chicago','new york city','washington'] and input_type == 1:
